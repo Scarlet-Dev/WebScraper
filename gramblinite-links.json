@@ -1,0 +1,122 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Published School Newspaper Works",
+  "description": "A list of published works",
+  "type":"array",
+
+  "published-works": [
+    {
+      "id": 1,
+      "title": "GSU students react to Trump comments",
+      "tags": ["","",""],
+      "date": "2016-03-31",
+      "link": "http://www.thegramblinite.com/news/view.php/1018959/GSU-students-react-to-Trump-comments",
+      "lead": ""
+    },
+    {
+      "id": 2,
+      "title": "Track and field team competes in Alabama",
+      "tags": ["","",""],
+      "date": "2016-04-07",
+      "link": "http://www.thegramblinite.com/news/view.php/1019469/Track-and-field-team-competes-in-Alabama",
+      "lead": ""
+    },
+    {
+      "id": 3,
+      "title": "A Guest Pespective: The Difference Between Faith and Religion",
+      "tags": ["","",""],
+      "date": "2016-04-07",
+      "link": "http://www.thegramblinite.com/news/view.php/1019467/A-Guest-Perspective",
+      "lead": ""
+    },
+    {
+      "id": 4,
+      "title": "Team looks at GSU's Future",
+      "tags": ["","",""],
+      "date": "2016-04-14",
+      "link": "http://www.thegramblinite.com/news/view.php/1019668/Team-looks-at-GSUs-future-",
+      "lead": ""
+    },
+    {
+      "id": 5,
+      "title": "Highschoolers Taste Tiger Spirit in Spring High School Day",
+      "tags": ["","",""],
+      "date": "2016-04-21",
+      "link":"http://www.thegramblinite.com/news/view.php/1019970/Highschoolers-taste-tiger-spirit-in-spri",
+      "lead": ""
+    },
+    {
+      "id": 6,
+      "title": "Queen with A Paintbrush",
+      "tags": ["","",""],
+      "date": "2016-04-21",
+      "link": "http://www.thegramblinite.com/news/view.php/1019978/Queen-with-a-paintbrush",
+      "lead": ""
+    },
+    {
+      "id": 7,
+      "title": "5K on campus to benefit Diabetes Association",
+      "tags": ["","",""],
+      "date": "2016-04-21",
+      "link": "http://www.thegramblinite.com/news/view.php/1019979/5K-on-campus-to-benefit-Diabetes-Associa",
+      "lead": ""
+    },
+    {
+      "id": 8,
+      "title": "Wet and Stress Free Day",
+      "tags": ["","",""],
+      "date": "2016-04-28",
+      "link": "http://www.thegramblinite.com/news/view.php/1020328/Wet-and-Stress-Free-Day",
+      "lead": ""
+    },
+    {
+      "id": 9,
+      "title": "Congrats, Class of 2016",
+      "tags": ["","",""],
+      "date": "2016-06-09",
+      "link": "http://www.thegramblinite.com/news/view.php/1020763/Congrats-class-of-2016",
+      "lead": ""
+    },
+    {
+      "id": 10,
+      "title": "Grambling Lab holds Final Graduation",
+      "tags": ["","",""],
+      "date": "2016-06-09",
+      "link": "http://www.thegramblinite.com/news/view.php/1020765/Grambling-Lab-holds-final-graduation",
+      "lead": ""
+    },
+    {
+      "id": 11,
+      "title": "Middle School Students Receive Awards",
+      "tags": ["","",""],
+      "date": "2016-06-09",
+      "link": "http://www.thegramblinite.com/news/view.php/1020764/Middle-school-students-receive-awards",
+      "lead": ""
+    },
+    {
+      "id": 12,
+      "title": "Science & Technology Freshmen working to Advance Education",
+      "tags": ["","",""],
+      "date": "2016-06-10",
+      "link": "http://www.thegramblinite.com/news/view.php/1020766/Science-and-technology-freshmen-working-",
+      "lead": ""
+    },
+    {
+      "id": 13,
+      "title": "UPhi U, OBB host Stroll-Off",
+      "tags": ["","",""],
+      "date": "2018-10-25",
+      "link": "http://www.thegramblinite.com/news/view.php/1035439/UPhi-U-OBB-host-Stroll-Off",
+      "lead": ""
+    },
+    {
+      "id": 14,
+      "title": "All buildings on campus reopen following bomb threat",
+      "tags": ["","",""],
+      "date": "2018-11-28",
+      "link": "http://www.thegramblinite.com/news/view.php/1036247/All-buildings-on-campus-reopen-following",
+      "lead": ""
+    }
+
+  ]
+}
